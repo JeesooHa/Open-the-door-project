@@ -20,3 +20,6 @@
 - [동영상](https://youtu.be/eSiBU9Iu5fA) 
 
 
+**control robot arm**
+- matlab으로 시뮬레이션한 궤적을 C++ 코드로 변경. 실제 로봇팔을 이용한 동작 확인
+- shunk 로봇 팔 제어, CAN 통신, Visual Studio 2010 사용
